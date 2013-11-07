@@ -1,0 +1,4 @@
+{
+    'acl': true,
+    'representations': ['text/html', 'application/json', 'text/xml']
+}
